@@ -1,1 +1,1 @@
-this repository hold my first shell scripts
+task 0. where am I
